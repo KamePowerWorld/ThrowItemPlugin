@@ -1,0 +1,5 @@
+name: ThrowItem
+version: '${project.version}'
+main: com.kamesuta.throwitem.ThrowItem
+api-version: 1.16
+authors: [ Kamesuta ]
